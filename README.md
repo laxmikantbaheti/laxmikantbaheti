@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Checkout my latest work in this repository: [MLPro](https://github.com/fhswf/MLPro)
+Learn more about my latest work in: [MLPro](https://github.com/fhswf/MLPro)
